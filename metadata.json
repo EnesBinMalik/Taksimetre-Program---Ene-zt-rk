@@ -1,0 +1,6 @@
+{
+  "name": "Taksimetre Programı - Ene Öztürk",
+  "description": "Java ile yazılmış taksimetre hesaplama programı, interaktif simülatör, terminal çalıştırıcı ve detaylı ödev sunumu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
